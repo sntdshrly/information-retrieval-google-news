@@ -1,2 +1,2 @@
-# information-retrieval-google-news
-information retrieval for google news.
+# Information Retrieval Google News
+Information retrieval for google news can be used for sentiment analysis.
